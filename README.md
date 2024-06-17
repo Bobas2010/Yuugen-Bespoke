@@ -1,4 +1,4 @@
-# Yuugen-Bespoke
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
